@@ -1,5 +1,6 @@
 # git-commit-convention
-currently using own git commit convention 
+`currently using own git commit convention `
+
 
 ## 😃 Gitmoji List
 
@@ -24,6 +25,9 @@ currently using own git commit convention
 🎉 프로젝트 시작
 
 ---
+
+![image](https://user-images.githubusercontent.com/72546335/146418196-617c076c-4784-497c-b293-6d444f651f3e.png)
+
 
 ### vscode extension Gitmoji 사용하면 vscode 내에서 깃모지 불러오기 가능
 
