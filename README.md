@@ -31,7 +31,8 @@
 
 ### vscode extension Gitmoji 사용하면 vscode 내에서 깃모지 불러오기 가능
 
-### 참고: https://treasurebear.tistory.com/70
+### 참고
+https://treasurebear.tistory.com/70
 
 ### git convention 정리
 https://jwuu.notion.site/About-Git-Convention-70440e5a9c204d769d83aee2039aae3d
