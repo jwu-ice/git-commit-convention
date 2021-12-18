@@ -1,5 +1,5 @@
 # git-commit-convention
-`currently using own git commit convention `
+
 
 
 ## 😃 Gitmoji List
@@ -32,15 +32,17 @@
 
 
 
----
 
 ![image](https://user-images.githubusercontent.com/72546335/146418196-617c076c-4784-497c-b293-6d444f651f3e.png)
 
 
-### vscode extension Gitmoji 사용하면 vscode 내에서 깃모지 불러오기 가능
+
 
 ### 참고
 https://treasurebear.tistory.com/70
 
 ### git convention 정리
 https://jwuu.notion.site/About-Git-Convention-70440e5a9c204d769d83aee2039aae3d
+
+### ps
+vscode extension Gitmoji 사용 시 vscode 내 깃모지 쉽게 불러올 수 있음!
