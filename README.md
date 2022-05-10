@@ -1,4 +1,4 @@
-# git-commit-convention
+# 깃모지 컨벤션
 
 
 
