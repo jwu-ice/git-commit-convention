@@ -36,11 +36,11 @@
 
 
 
-### 참고
+### references
 https://treasurebear.tistory.com/70
 
 ### git convention 정리
 https://jwuu.notion.site/About-Git-Convention-70440e5a9c204d769d83aee2039aae3d
 
-### ps
+### helper
 vscode extension Gitmoji 사용 시 vscode 내 깃모지 쉽게 불러올 수 있음!
