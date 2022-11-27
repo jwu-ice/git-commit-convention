@@ -43,4 +43,4 @@ https://treasurebear.tistory.com/70
 https://jwuu.notion.site/About-Git-Convention-70440e5a9c204d769d83aee2039aae3d
 
 ### helper
-vscode extension Gitmoji 사용 시 vscode 내 깃모지 쉽게 불러올 수 있음!
+[vscode extension Gitmoji](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode) 사용 시 vscode 내 깃모지 쉽게 불러올 수 있음!
